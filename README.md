@@ -1,2 +1,2 @@
-# testscript.ithub.io
+# testscript.github.io
 Тестовий хостинг
